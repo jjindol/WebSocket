@@ -17,7 +17,8 @@
 
 
 ## 네트워크 구조
-![image](https://github.com/jjindol/WebSocket/assets/109019833/9f2794f6-06df-4c13-af36-023dc9a0c9db)
+<img width="514" alt="스크린샷 2024-01-01 오후 10 19 18" src="https://github.com/jjindol/WebSocket/assets/109019833/e026dee4-d332-4bfa-ba84-c39200d99d55">
+
 
 
 
