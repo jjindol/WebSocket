@@ -23,3 +23,4 @@
 
 
 # 시나리오
+![image](https://github.com/jjindol/WebSocket/assets/109019833/79bcc869-1e8f-4f6a-941f-ea4c526fb385)
